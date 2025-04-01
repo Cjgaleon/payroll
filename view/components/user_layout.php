@@ -43,10 +43,10 @@
 <body>
     <div class="sidebar">
         <h3>Employee Dashboard</h3>
-        <a href="#">Profile</a>
+        <a href="user_dashboard.php">Profile</a>
         <a href="#">Payroll History</a>
         <a href="#">Leave Requests</a>
-        <a href="#">Attendance</a>
+        <a href="user_attendance.php">Attendance</a>
         <a href="../datas/logout.php" class="text-danger">Logout</a>
     </div>
     <div class="content">
